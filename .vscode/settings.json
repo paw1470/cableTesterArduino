@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/pawel/.platformio/penv/bin:/home/pawel/.platformio/penv:/home/pawel/.local/bin:/home/pawel/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
